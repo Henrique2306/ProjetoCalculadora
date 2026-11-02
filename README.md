@@ -97,14 +97,20 @@ No Android Studio: botão direito em `CalculadoraTest` → **Run**. Pelo termina
 | `3 − 5 = √` | `Erro` | ☐ |
 | Girar a tela no meio de uma conta | A conta continua na tela | ☐ |
 
+
 ## Evidências
 
-<p align="center">
-  <img src="Prints/tela-inicial.png" width="220" alt="Tela inicial" />
-  <img src="Prints/decimais.png" width="220" alt="Operação com decimais" />
-  <img src="Prints/divisao-zero.png" width="220" alt="Divisão por zero" />
-  <img src="Prints/historico.png" width="220" alt="Histórico aberto" />
-</p>
+### Tela inicial
+![Tela inicial](prints/tela-inicial.png)
+
+### Operação com decimais
+![Operação com decimais](prints/decimais.png)
+
+### Divisão por zero (Erro)
+![Divisão por zero](prints/divisao-zero.png)
+
+### Histórico aberto
+![Histórico aberto](prints/historico.png)
 
 ### Testes unitários passando
-![Testes unitários passando](Prints/testes.png)
+![Testes unitários passando](prints/testes.png)
