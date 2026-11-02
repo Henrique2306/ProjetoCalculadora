@@ -101,16 +101,16 @@ No Android Studio: botão direito em `CalculadoraTest` → **Run**. Pelo termina
 ## Evidências
 
 ### Tela inicial
-![Tela inicial](prints/tela-inicial.png)
+![Tela inicial](Prints/tela-inicial.png)
 
 ### Operação com decimais
-![Operação com decimais](prints/decimais.png)
+![Operação com decimais](Prints/decimais.png)
 
 ### Divisão por zero (Erro)
-![Divisão por zero](prints/divisao-zero.png)
+![Divisão por zero](Prints/divisao-zero.png)
 
 ### Histórico aberto
-![Histórico aberto](prints/historico.png)
+![Histórico aberto](Prints/historico.png)
 
 ### Testes unitários passando
-![Testes unitários passando](prints/testes.png)
+![Testes unitários passando](Prints/testes.png)
