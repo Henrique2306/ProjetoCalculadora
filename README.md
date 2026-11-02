@@ -100,11 +100,11 @@ No Android Studio: botão direito em `CalculadoraTest` → **Run**. Pelo termina
 ## Evidências
 
 <p align="center">
-  <img src="prints/tela-inicial.png" width="220" alt="Tela inicial" />
-  <img src="prints/decimais.png" width="220" alt="Operação com decimais" />
-  <img src="prints/divisao-zero.png" width="220" alt="Divisão por zero" />
-  <img src="prints/historico.png" width="220" alt="Histórico aberto" />
+  <img src="Prints/tela-inicial.png" width="220" alt="Tela inicial" />
+  <img src="Prints/decimais.png" width="220" alt="Operação com decimais" />
+  <img src="Prints/divisao-zero.png" width="220" alt="Divisão por zero" />
+  <img src="Prints/historico.png" width="220" alt="Histórico aberto" />
 </p>
 
 ### Testes unitários passando
-![Testes unitários passando](prints/testes.png)
+![Testes unitários passando](Prints/testes.png)
