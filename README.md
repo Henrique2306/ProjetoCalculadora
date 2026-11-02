@@ -1,4 +1,4 @@
-﻿# 02 - Calculadora (Kotlin + Jetpack Compose)
+﻿#Calculadora (Kotlin + Jetpack Compose)
 
 **Projeto PDM** — Matheus Borges e Henrique Gouveia — 3H
 
@@ -99,10 +99,12 @@ No Android Studio: botão direito em `CalculadoraTest` → **Run**. Pelo termina
 
 ## Evidências
 
-Coloque os prints na pasta `prints/`:
+<p align="center">
+  <img src="prints/tela-inicial.png" width="220" alt="Tela inicial" />
+  <img src="prints/decimais.png" width="220" alt="Operação com decimais" />
+  <img src="prints/divisao-zero.png" width="220" alt="Divisão por zero" />
+  <img src="prints/historico.png" width="220" alt="Histórico aberto" />
+</p>
 
-- [ ] Tela inicial
-- [ ] Operação com decimais
-- [ ] Divisão por zero (`Erro`)
-- [ ] Histórico aberto
-- [ ] Testes unitários passando (aba Run do Android Studio)
+### Testes unitários passando
+![Testes unitários passando](prints/testes.png)
